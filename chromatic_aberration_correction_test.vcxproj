@@ -109,6 +109,7 @@
   <ItemGroup>
     <ClCompile Include="src\ColorAberrationCorrection.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\ShowManyImages.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\ColorAberrationCorrection.h" />
